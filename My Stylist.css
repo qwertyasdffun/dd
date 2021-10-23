@@ -1,0 +1,221 @@
+.pageone {
+  background-color: dodgerblue;
+}
+
+.pagetwo {
+  background-color: gold;
+}
+
+.pagethree {
+  background-color: black;
+}
+
+.pagefour {
+  background-color: white;
+}
+
+.pagefive {
+  background-color: gold;
+}
+
+.navap {
+  display: block;
+  color: white;
+  float: left;
+  padding-right: 170px;
+  padding-left: 150px;
+  padding-top: 4px;
+  padding-bottom: 8px;
+  text-decoration: none;
+  border-bottom: 2px solid white;
+  font-family: "Times New Roman", Times, serif;
+  font-size: 20px;
+}
+
+.navap:hover{
+  background-color: silver;
+}
+
+.footap {
+  display: block;
+  color: white;
+  float: left;
+  padding-right: 255px;
+  padding-left: 192px;
+  padding-top: 8px;
+  padding-bottom: 8px;
+  text-decoration: none;
+  border-top: 2px solid white;
+  font-family: "Times New Roman", Times, serif;
+  font-size: 20px;
+}
+
+.footap:hover{
+  background-color: silver;
+}
+
+
+.nava {
+  display: block;
+  color: black;
+  float: left;
+  padding-right: 170px;
+  padding-left: 150px;
+  padding-top: 4px;
+  padding-bottom: 8px;
+  text-decoration: none;
+  border-bottom: 2px solid black;
+  font-family: "Times New Roman", Times, serif;
+  font-size: 20px;
+}
+
+.nava:hover{
+  background-color: whitesmoke;
+}
+
+.foota {
+  display: block;
+  color: black;
+  float: left;
+  padding-right: 255px;
+  padding-left: 192px;
+  padding-top: 8px;
+  padding-bottom: 8px;
+  text-decoration: none;
+  border-top: 2px solid black;
+  font-family: "Times New Roman", Times, serif;
+  font-size: 20px;
+}
+
+.foota:hover{
+  background-color: whitesmoke;
+}
+
+h1 {
+  color: gold;
+  text-align: center;
+  border: 3px solid black;
+  margin: 50px 500px 50px 500px;
+  padding-top: 10px;
+  padding-bottom: 10px;
+  font-family: "Times New Roman", Times, serif;
+}
+
+.blacktitle{
+  color: black;
+  text-align: center;
+  border: 3px solid black;
+  margin: 50px 500px 50px 500px;
+  padding-top: 10px;
+  padding-bottom: 10px;
+  font-family: "Times New Roman", Times, serif;
+}
+
+.whitetitle{
+  color: white;
+  text-align: center;
+  border: 3px solid white;
+  margin: 50px 500px 50px 500px;
+  padding-top: 10px;
+  padding-bottom: 10px;
+  font-family: "Times New Roman", Times, serif;
+}
+
+.bluetitle{
+  color: dodgerblue;
+  text-align: center;
+  border: 3px solid black;
+  margin: 50px 500px 50px 500px;
+  padding-top: 10px;
+  padding-bottom: 10px;
+  font-family: "Times New Roman", Times, serif;
+}
+
+.oneboxes {
+  text-align: center;
+  background-color: gold;
+  font-family: "Times New Roman", Times, serif;
+  margin: 20px 150px 20px 150px;
+  padding-top: 3px;
+  padding-bottom: 3px;
+}
+
+.twoboxes {
+  text-align: center;
+  background-color: black;
+  font-family: "Times New Roman", Times, serif;
+  margin: 20px 150px 20px 150px;
+  padding-top: 3px;
+  padding-bottom: 3px;
+}
+
+.boxp{
+  color: white;
+}
+
+.threeboxes {
+  text-align: center;
+  background-color: white;
+  font-family: "Times New Roman", Times, serif;
+  margin: 20px 150px 20px 150px;
+  padding-top: 3px;
+  padding-bottom: 3px;
+}
+
+.fourboxes {
+  text-align: center;
+  background-color: dodgerblue;
+  font-family: "Times New Roman", Times, serif;
+  margin: 20px 150px 20px 150px;
+  padding-top: 3px;
+  padding-bottom: 3px;
+}
+
+.reference{
+  border: 1px solid black;
+  font-family: "Times New Roman", Times, serif;
+  margin: 20px 600px 20px 600px;
+}
+
+.referencep{
+  border: 2px solid white;
+  font-family: "Times New Roman", Times, serif;
+  margin: 20px 600px 20px 600px;
+}
+
+.refp{
+  color: white;
+}
+
+p{
+  font-size: 22px;
+  font-family: "Times New Roman", Times, serif;
+  text-align: left;
+  margin-left: 10px;
+}
+
+#videos{
+  border: 6px dotted black;
+}
+
+.olone{
+  font-size: 22px;
+  font-family: "Times New Roman", Times, serif;
+  text-align: left;
+  margin-left: 10px;
+}
+
+#pictures{
+  width: 30%;
+  height: 30%;
+  border: 6px dotted black;
+}
+
+ul li a{
+  text-decoration: none;
+  font-size: 20px;
+}
+
+.ulp{
+  color: white;
+}
